@@ -1,0 +1,177 @@
+Fechar
+Week 5 Graded Quiz using Teradata
+
+14 perguntas
+1
+point
+1. 
+How many distinct skus have the brand “Polo fas”, and are either size “XXL” or “black” in color?
+
+##### 13,623 - CORRECT
+
+27,271 - WRONG
+
+84 - WRONG
+
+5,224 - WRONG
+1
+point
+2. 
+There was one store in the database which had only 11 days in one of its months (in other words, that store/month/year combination only contained 11 days of transaction data). In what city and state was this store located?
+
+##### Atlanta, GA - CORRECT
+
+Richmond, VA - WRONG
+
+Tulsa, OK - WRONG
+
+Little Rock, AR - WRONG
+1
+point
+3. 
+Which sku number had the greatest increase in total sales revenue from November to December?
+
+2637537 - WRONG
+
+4737469 - WRONG
+
+6966816 - WRONG
+
+##### 3949538 - CORRECT
+1
+point
+4. 
+What vendor has the greatest number of distinct skus in the transaction table that do not exist in the skstinfo table? (Remember that vendors are listed as distinct numbers in our data set).
+
+3313116 - WRONG
+
+5511283 - WRONG
+
+9514659 - WRONG
+
+##### 5715232 - CORRECT
+1
+point
+5. 
+What is the brand of the sku with the greatest standard deviation in sprice? Only examine skus which have been part of over 100 transactions.
+
+Polo Fas - WRONG
+
+##### Hart Sch - CORRECT
+
+Vanity F - WRONG
+
+Clinique - WRONG
+1
+point
+6. 
+What is the city and state of the store which had the greatest increase in average daily revenue (as I define it in Teradata Week 5 Exercise Guide) from November to December?
+
+Little Rock, AK - WRONG
+
+McAllen, TX - WRONG
+
+##### Metairie, LA - CORRECT
+
+Tucson, AZ - WRONG
+1
+point
+7. 
+Compare the average daily revenue (as I define it in Teradata Week 5 Exercise Guide) of the store with the highest msa_income and the store with the lowest median msa_income (according to the msa_income field). In what city and state were these two stores, and which store had a higher average daily revenue?
+
+- CORRECT - The store with the highest median msa_income was in Spanish Fort, AL. It had a lower average daily revenue than the store with the lowest median msa_income, which was in McAllen, TX.
+
+ - WRONG - The store with the highest median msa_income was in Cincinnati, OH. It had a lower average daily revenue than the store with the lowest median msa_income, which was in Littleton, CO.
+
+ - WRONG - The store with the highest median msa_income was in Littleton, CO. It had a higher average daily revenue than the store with the lowest median msa_income, which was in Cincinnati, OH.
+
+ - WRONG - The store with the highest median msa_income was in McAllen, TX. It had a higher average daily revenue than the store with the lowest median msa_income, which was in Spanish Fort, AL.
+1
+point
+8. 
+Divide the msa_income groups up so that msa_incomes between 1 and 20,000 are labeled 'low', msa_incomes between 20,001 and 30,000 are labeled 'med-low', msa_incomes between 30,001 and 40,000 are labeled 'med-high', and msa_incomes between 40,001 and 60,000 are labeled 'high'. Which of these groups has the highest average daily revenue (as I define it in Teradata Week 5 Exercise Guide) per store?
+
+##### low - CORRECT
+
+med-low - WRONG
+
+med-high - WRONG
+
+high - WRONG
+1
+point
+9. 
+Divide stores up so that stores with msa populations between 1 and 100,000 are labeled 'very small', stores with msa populations between 100,001 and 200,000 are labeled 'small', stores with msa populations between 200,001 and 500,000 are labeled 'med_small', stores with msa populations between 500,001 and 1,000,000 are labeled 'med_large', stores with msa populations between 1,000,001 and 5,000,000 are labeled “large”, and stores with msa_population greater than 5,000,000 are labeled “very large”. What is the average daily revenue (as I define it in Teradata Week 5 Exercise Guide) for a store in a “very large” population msa?
+
+
+$16,355 - WRONG
+
+$24,341 - WRONG
+
+##### $25,452 - CORRECT
+
+$6,298 - WRONG
+1
+point
+10. 
+Which department in which store had the greatest percent increase in average daily sales revenue from November to December, and what city and state was that store located in? Only examine departments whose total sales were at least $1,000 in both November and December.
+
+Clinique department, Odessa, TX - WRONG
+
+##### Louisvl department, Salina, KS - CORRECT
+
+Gottex department, Pine Bluff, AR - WRONG
+
+Jacques department, Jackson, MS - WRONG
+1
+point
+11. 
+Which department within a particular store had the greatest decrease in average daily sales revenue from August to September, and in what city and state was that store located?
+
+Polomen department, Greenville, SC - WRONG
+
+##### Clinique department, Louisville, KY - CORRECT
+
+Clinique department, Cincinnati, OH - WRONG
+
+Polomen department, Knoxville, TN - WRONG
+1
+point
+12. 
+Identify the department within a particular store that had the greatest decrease innumber of items sold from August to September. How many fewer items did that department sell in September compared to August, and in what city and state was that store located?
+
+##### The R Lauren department in Toledo, OH sold 13,491 fewer items - CORRECT
+
+The Clinique department in Greenville, SC sold 12,009 fewer items - WRONG
+
+The Clinique department in Louisville, KY sold 5,856 fewer items - WRONG
+
+The R Lauren department in Charlotte, NC sold 18,553 fewer items - WRONG
+1
+point
+13. 
+For each store, determine the month with the minimum average daily revenue (as I define it in Teradata Week 5 Exercise Guide) . For each of the twelve months of the year, count how many stores' minimum average daily revenue was in that month. During which month(s) did over 100 stores have their minimum average daily revenue?
+
+January and August - WRONG
+
+##### August only - CORRECT
+
+January and September - WRONG
+
+August and September - WRONG
+1
+point
+14. 
+Write a query that determines the month in which each store had its maximum number of sku units returned. During which month did the greatest number of stores have their maximum number of sku units returned?
+
+January - WRONG
+
+September - WRONG
+
+March - WRONG
+
+##### December - CORRECT
+13 perguntas sem resposta
+Enviar teste
+
+

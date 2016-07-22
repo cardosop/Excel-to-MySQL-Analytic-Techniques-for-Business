@@ -1,0 +1,133 @@
+Encerrar
+Week 1 Graded Quiz
+
+10 perguntas
+
+1. 
+Please use the following information to answer all questions in this quiz.
+
+Refer to the Excel Essentials for Beginners Solutions Workbook sheet 2S-10 that contain the monthly continuously compounded returns for two stock indexes – RSP and SPY – and two individual stocks – Amazon and Duke Energy – for the 12 years from May 2003 to May 2015.
+
+Use Excel’s chart function to generate a scatter plot of SPY index monthly returns (y axis) against Amazon monthly returns (x axis)
+
+When you use “trendline” option for slope, R-squared, and the y-intercept, double-check your results against the equivalent cell formula answers.
+
+Question 1: What is the slope of the best-fit line (rounded to two decimal places)?
+
+0.11 X
+
+0.12 X
+
+0.15 V
+
+0.18
+
+2. 
+What is the coefficient of determination (R-squared)? Use the "rsq" Excel function (Trendline in Excel may give an inaccurate value for R-squared).
+
+0.18 V
+
+0.20
+
+0.22
+
+0.24
+
+3. 
+What is the Y-intercept, in percent? Use the "trendline" but double-check against the "intercept" function.
+
+0.25% X
+
+0.35% X
+
+0.45% V
+
+0.55%
+
+4. 
+Answer Question 4 and 5 based on the information below:
+
+The annual Sharpe Ratio (discussed extensively in Course 1) calculates the difference between the annual return of a stock and the annual return of a risk-free investment in government bonds - then divides that difference by the annualized standard deviation of returns of the stock.
+
+Estimate the annualized standard deviation of returns by multiplying the monthly population standard deviation of returns by the square root of 12.
+
+Question 4: Assuming the risk-free rate is 1.5% per year over the full 12-year interval measured, which asset had the higher Sharpe ratio: SPY or RSP?
+
+SPY X
+
+RSP V
+
+5. 
+For the asset you chose in Question 4, what was the Sharpe ratio? Round your results to two decimal places.
+
+0.56 X
+
+0.53 V
+
+0.50
+
+0.48
+
+6. 
+In the month ending on which date did Amazon achieve the highest returns?
+
+September 1, 2010 X
+
+October 1, 2009  X
+
+April 2, 2007 V
+
+July 3, 2006
+
+7. 
+What was the monthly return from the question above?
+
+22.9% X
+
+24.11% X
+
+43.27% V
+
+51.87%
+
+8. 
+What was Duke Energy’s return that same month?
+
+0.51% X
+
+1.13% V
+
+3.04%
+
+3.18%
+
+9. 
+Using the Solver plug-in for Excel, answer Questions 9 and 10, based on the information below:
+
+Between possible pricing of $5 per pound to $25 per pound, the quantity of coffee Egger’s Roast Coffee can sell each month is a linear function of the retail selling price per pound. The linear function is (quantity sold in pounds) = (-400*(Price per pound)) + 10,000.
+
+Question 9: What is the revenue-maximizing selling price per pound for Egger’s Roast Coffee?
+
+(If you find solver hard to comprehend, here is one sample of the same question but with different numbers)
+
+$5.00 X
+
+$12.50 V
+
+$13.50
+
+$25.00
+
+10. 
+What is the monthly revenue at that price per pound? ( , indicates thousands)
+
+$15,100 X
+
+$62,500 V
+
+$62,100
+
+$40,000
+Enviar teste
+
+

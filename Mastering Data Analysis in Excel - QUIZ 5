@@ -1,0 +1,65 @@
+Encerrar
+Week 5 Graded Quiz
+
+7 perguntas
+1. 
+Suppose we have a 250 data points distributed from 0 to 100. If we have 30 data points in bin [10, 20], how tall is the bin [10, 20] in the “probability histogram”?
+
+12
+
+0.12 v
+
+30
+
+0.10
+2. 
+Suppose we have a range of outcomes between -10 to 10 that we divide into 5 bins of equal width. What is the smallest bin mean among the 5 bins?
+
+-10 x
+
+-8 v
+
+-6
+
+-4
+3. 
+True/False: A Gaussian distribution is more skewed than a uniform continuous distribution with the same variance.
+
+True
+
+False v
+4. 
+A Gaussian distribution has higher entropy than a uniform continuous distribution with the same variance.
+
+True v
+
+False
+5. 
+Suppose we have a continuous uniform distribution on [-2,4]. What is its variance?
+
+2.0
+
+2.67 x
+
+3.0
+
+4.33 x
+6. 
+True/False: In a scatterplot of 100 ordered pairs drawn from two Gaussian random variables with mean = 0, variance = 1, and correlation R = 0, it is possible to get a correlation of the ordered pairs = 0.99.
+
+True v
+
+False
+7. 
+Which of the following statements about over-fitting is false:
+
+Over-fitting occurs when we model "noise" along with or instead of a true relationship.
+
+Over-fitting leads to overconfidence in our model.
+
+The more complex the model, the less  likely over-fitting is to occur. v
+
+In order to avoid over-fitting, it is necessary to test the model on new data.
+
+
+

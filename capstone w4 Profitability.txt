@@ -1,0 +1,52 @@
+Profitability
+
+4 perguntas
+1
+point
+1. 
+At a 30% Transaction Fee, how many properties are above the cutoff?
+
+vvvv	41
+
+44
+
+52
+
+38
+1
+point
+2. 
+What are the profits for W156?
+
+xxxx	$136,683
+
+xxxx	$138,683.
+
+xxxx	$128,836.
+
+vvvv	$124,656
+1
+point
+3. 
+What are the profits for W19?
+
+xxxx	$6,433
+
+xxxx	$7,444
+
+vvvv	$5,186
+
+xxxx	$7,333
+1
+point
+4. 
+What are the profits for W12?
+
+
+vvvv	-$8,910
+
+$7,737
+
+-$7,736
+
+$8,910

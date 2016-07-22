@@ -1,0 +1,15 @@
+Sensitivity Analysis: Measuring Cutoffs at 40% Transaction Fee
+
+1 pergunta
+1
+point
+1. 
+How many properties are above the $6,000 cutoff at a 40% transaction fee instead of 30%, holding all other assumptions constant?
+
+xxxx	13
+
+xxxx	14
+
+vvvv	26
+
+xxxx	27

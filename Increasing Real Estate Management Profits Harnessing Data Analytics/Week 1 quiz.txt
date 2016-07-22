@@ -1,0 +1,119 @@
+
+
+Elicitation
+
+10 perguntas
+---------------///////------------------//////----------------
+1. 
+In your analysis, how much should you assume hospitality costs (for key service, cleaning,etc.) will be?
+
+$100/night
+
+$200/night
+
+$200/stay
+
+VVVV	$100/stay
+---------------///////------------------//////----------------
+2. 
+In your analysis, how much should you assume utilities will cost?
+
+The property owner is expected to cover utilities, so you do not have to take utilities into account in your analysis
+
+$200/month for apartments, $300/month for houses
+
+VVVV	$300/month for all properties
+
+$300/month for apartments, $400/month for houses
+---------------///////------------------//////----------------
+3. 
+In your analysis, how much should you assume it will cost to manage the upkeep(replacements and repairs) of a single short-term rental property?
+
+$10,000/year
+
+$5,000/year
+
+$2,000/year
+
+VVVV	$6,000/year
+---------------///////------------------//////----------------
+4. 
+In your analysis, how much should you assume it will cost to furnish a Watershed property so that it can be managed as a short-term rental property?
+
+VVVV	$30,000
+
+$35,000
+
+This information was not provided in the elicitation materials.
+
+$25,000
+---------------///////------------------//////----------------
+5. 
+In your analysis, how long should you assume it will cost to cover late rental payments?
+
+XXXX	$100/month for each property
+
+$5000/year in total for all properties
+
+$200/month for each property
+
+VVVV	Assume all rental payments will be made on time
+---------------///////------------------//////----------------
+6. 
+In your analysis, how what percentage of a short-term rental fee should you budget for regulatory fees, such as hotel taxes or legal costs?
+
+XXXX	20%
+
+VVVV	10%
+
+No amount should be budgeted for regulatory fees in the initial analysis
+
+15%
+---------------///////------------------//////----------------
+7. 
+In your analysis, how long should you assume the typical length of a stay in a short-term rental property will be?
+
+7 days (1 week)
+
+VVVV	3 days
+
+1 day
+
+2 days
+---------------///////------------------//////----------------
+8. 
+In your analysis, what percentage of a short-term rental fee should you budget for the online short-term rental provider (like Airbnb)?
+
+
+25%
+
+30%
+
+10%
+
+VVVV	20%
+---------------///////------------------//////----------------
+9. 
+In your analysis, how much higher should you assume rental prices will be during the summer months compared to the winter months?
+
+VVVV	No seasonal effects should be incorporated into the initial analysis
+
+2%
+
+12%
+
+5%
+---------------///////------------------//////----------------
+10. 
+In your analysis, over how many years should you depreciate the capital expenditure required to convert a Watershed property to a short-term rental property?
+
+
+3 years
+
+15 years
+
+VVVV	5 years
+
+10 years
+
+

@@ -1,0 +1,192 @@
+Fechar
+Week 2 Graded Quiz using Teradata
+
+15 perguntas
+1
+point
+1. 
+Which of the following keywords are required in any query to retrieve data from a relational database? Select all that apply. (Note that you will need more than a single correct selection to answer this question correctly.)
+
+
+#### FROM  - CORRECT
+
+WHERE - WRONG
+
+ORDER (BY) - WRONG
+
+HAVING - WRONG
+
+GROUP (BY) - WRONG
+
+##### SELECT - CORRECT
+1
+point
+2. 
+Which of the following database systems recognize the keyword “LIMIT” to limit the number of rows displayed from a query output?
+
+Teradata - WRONG
+
+###### MySQL - CORRECT
+
+Neither - WRONG
+
+Both - WRONG
+1
+point
+3. 
+Which keywords could you use to determine the names of the columns contained in a table?
+
+COLUMNS in MySQL and SHOW in Teradata - WRONG
+
+SHOW in MySQL and DESCRIBE in Teradata - WRONG
+
+###### DESCRIBE in MySQL and HELP in Teradata - CORRECT
+
+HELP in MySQL and COLUMNS in Teradata - WRONG
+1
+point
+4. 
+In how many columns of the STRINFO table of the Dillard’s database are NULL values *permitted*?
+
+0 - WRONG
+
+##### 3 - CORRECT
+
+2 - WRONG
+
+1 - WRONG
+1
+point
+5. 
+In how many columns of the STRINFO table of the Dillard’s database are NULL values *present*?
+
+3 - WRONG
+
+##### 0 - CORRECT
+
+1 - WRONG
+
+2 - WRONG
+1
+point
+6. 
+What was the highest original price in the Dillard’s database of the item with SKU 3631365?
+
+###### $17.50 - CORRECT
+
+$12.00 - WRONG
+
+$15.50 - WRONG
+
+$20.00 - WRONG
+1
+point
+7. 
+What is the color of the Liz Claiborne brand item with the highest SKU # in the Dillard’s database (the Liz Claiborne brand is abbreviated “LIZ CLAI” in the Dillard’s database)?
+
+
+CLAY - WRONG
+
+HTR GREY - WRONG
+
+##### TEAK CBO - CORRECT
+
+ORANGE - WRONG
+1
+point
+8. 
+What aspect of the following query will make the query crash?
+
+SELECT SKU, orgprice, sprice, amt,
+
+FROM TRNSACT
+
+WHERE AMT>50
+
+There is no TOP statement - WRONG
+
+##### There is a comma after "amt" in the first line of the query - CORRECT
+
+There is no semi-colon at the end of the query - WRONG
+
+"orgprice", "sprice", and "amt" are in lowercase letters in the first line of the query - WRONG
+1
+point
+9. 
+What is the sku number of the item in the Dillard’s database that had the highest original sales price?
+
+4420360 - WRONG
+
+##### 6200173 - CORRECT
+
+4628597 - WRONG
+
+7298484 - WRONG
+1
+point
+
+
+
+1
+point
+11. 
+How many Dillard’s departments start with the letter “e”
+
+7 - WRONG
+
+3 - WRONG
+
+##### 5 - CORRECT
+
+1 - WRONG
+1
+point
+12. 
+What was the date of the earliest sale in the database where the sale price of the item did not equal the original price of the item, and what was the largest margin (original price minus sale price) of an item sold on that earliest date?
+
+###### 04/08/01, $510.00 - CORRECT
+
+05/01/28, $412.50 - WRONG
+
+04/12/24, $458.70 - WRONG
+
+04/10/10, $475.94 - WRONG
+1
+point
+13. 
+What register number made the sale with the highest original price and highest sale price between the dates of August 1, 2004 and August 10, 2004? Make sure to sort by original price first and sale price second.
+
+431 - WRONG
+
+##### 621 - CORRECT
+
+390 - WRONG
+
+90 - WRONG
+1
+point
+14. 
+Which of the following brand names with the word/letters “liz” in them exist in the Dillard’s database? Select all that apply. Note that you will need more than a single correct selection to answer the question correctly.
+
+LIZ MOOR - WRONG
+
+REVITALIZE - WRONG
+
+##### CIVILIZE - CORRECT
+
+##### BELIZA - CORRECT
+1
+point
+15. 
+What is the lowest store number of all the stores in the STORE_MSA table that are in the city of “little rock”,”Memphis”, or “tulsa”?
+
+9906 - WRONG
+
+##### 504 - CORRECT
+
+204 - WRONG
+
+1204 - WRONG
+Enviar teste
+
+

@@ -1,0 +1,191 @@
+Fechar
+Week 3 Graded Quiz using Teradata
+
+15 perguntas
+1
+point
+1. 
+Given Table A (first table to be entered in the query) and Table B (second table to be entered in the query) the query result shown below is a result of what kind of join?
+
+
+
+Inner Join - WRONG
+
+##### Right Join - CORRECT
+
+Left Join - WRONG
+
+Full Outer Join - WRONG
+1
+point
+2. 
+On what day was Dillard’s income based on total sum of purchases the greatest
+
+05/02/28 - WRONG
+
+##### 04/12/18 - CORRECT
+
+04/11/01 - WRONG
+
+05/02/01 - WRONG
+1
+point
+3. 
+What is the deptdesc of the departments that have the top 3 greatest numbers of skus from the skuinfo table associated with them?
+
+CLINIQUE, CELEBRT, NOB - WRONG
+
+LACOSTE, LOUISVL, LESLIE - WRONG
+
+BORA, C KLEIN, BLUE - WRONG
+
+##### INVEST, POLOMEN, BRIOSO - CORRECT
+1
+point
+4. 
+Which table contains the most distinct sku numbers?
+
+###### skuinfo - CORRECT
+
+deptinfo - WRONG
+
+transact - WRONG
+
+skstinfo - WRONG
+1
+point
+5. 
+How many skus are in the skstinfo table, but NOT in the skuinfo table?
+
+803,966 - WRONG
+
+90,334 - WRONG
+
+2388 - WRONG
+
+###### 0 - CORRECT
+1
+point
+6. 
+What is the average amount of profit Dillard’s made per day?
+
+$400,893,380 - WRONG
+
+$30,222,191 - WRONG
+
+###### $1,527,903 - CORRECT
+
+$6,921,454 - WRONG
+1
+point
+7. 
+The store_msa table provides population statistics about the geographic location around a store. Using one query to retrieve your answer, how many MSAs are there within the state of North Carolina (abbreviated “NC”), and within these MSAs, what is the lowest population level (msa_pop) and highest income level (msa_income)?
+
+16 MSAs, lowest population of 439,117, highest income level of $26,879 - WRONG
+
+##### 16 MSAs, lowest population of 339,511, highest income level of $36,151 - CORRECT
+
+12 MSAs, lowest population of 339,511, highest income level of $56,099 - WRONG
+
+12 MSAs, lowest population of 5,797, highest income level of $26,879 - WRONG
+1
+point
+8. 
+What department (with department description), brand, style, and color brought in the greatest total amount of sales?
+
+Department 4407 described as Environ, brand Silver C, style TO02SCBELT-S , color silver - WRONG
+
+Department 6400 described as Blue, brand Designer, style 6 7002-9, color edp spray - WRONG
+
+Department 2200 described as Celebrt, brand Lancome, style 1924, color resol eye - WRONG
+
+##### Department 800 described as Clinique, brand Clinique, style 6142, color DDML - CORRECT
+1
+point
+9. 
+How many stores have more than 180,000 distinct skus associated with them in the skstinfo table?
+
+31 - WRONG
+
+20 - WRONG
+
+4
+
+12
+1
+point
+10. 
+What feature(s) differs among all the distinct skus in the “cop” department with the “federal” brand and a “rinse wash” color? Choose all that apply. Note that you will need more than a single correct selection to answer the question correctly.
+
+##### style - CORRECT
+
+##### size  - CORRECT
+
+vendor - WRONG
+
+pack size - WRONG
+1
+point
+11. 
+How many skus are in the skuinfo table, but NOT in the skstinfo table?
+
+0 - WRONG
+
+##### 803,966 - CORRECT
+
+2388 - WRONG
+
+90,334 - WRONG
+1
+point
+12. 
+In what city and state is the store that had the greatest total sum of sales?
+
+Dallas, TX - WRONG
+
+McAllen, TX - WRONG
+
+##### Metairie, LA - CORRECT
+
+Little Rock, AK - WRONG
+1
+point
+13. 
+Given Table A (first table to be entered in the query) and Table B (second table to be entered in the query) the query result shown below is a result of what kind of join?
+
+
+
+Full Outer Join - WRONG
+
+Inner Join - WRONG
+
+Right Join - WRONG
+
+##### Left Join - CORRECT
+1
+point
+14. 
+How many states have more than 10 Dillards stores in them?
+
+24 - WRONG
+
+5 - WRONG
+
+9 - WRONG
+
+##### 15 - CORRECT
+1
+point
+15. 
+What is the suggested retail price of all the skus in the “reebok” department with the “skechers” brand and a “wht/saphire” color?
+
+$19.00 - WRONG
+
+$39.00 - WRONG
+
+$4.00 - WRONG
+
+##### $29.00 - CORRECT
+Enviar teste
+
+

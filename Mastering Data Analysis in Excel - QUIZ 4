@@ -1,0 +1,99 @@
+Encerrar
+Week 4 Graded Quiz
+
+9 perguntas
+1. 
+Suppose body weight for a large group of athletes follows an approximately Gaussian distribution with a mean of 155 pounds and standard deviation of 20 pounds. What is portion of athletes expected to weigh over 180 pounds?
+
+0.89 x
+
+0.11 v
+
+0.73 x
+
+0.27
+2. 
+True/False: Student A sampled 100 times from a population with sample size n = 25; student B sampled 100 times from the SAME population using sample size n = 50. The sample means that student A and student B get will both follow Gaussian distributions, and have approximately equal means.
+
+True v
+
+False
+3. 
+Given random variable X that follows a Gaussian Distribution with mean = 20 and standard deviation = 15; and a random variable Y that follows a Gaussian Distribution with mean = 10 and standard deviation = 10. Assume that X and Y are independent. What is the standard deviation of random variable Z = X +Y?
+
+15 x
+
+18 v
+
+20
+
+25
+4. 
+Use the Markowitz Portfolio Optimization Spreadsheet, 5-4. Suppose now the correlation between the two stocks is R = -0.5. What is the maximum Sharpe Ratio you can get, given the original risk-free interest rate of 1%?
+
+1.79 x
+
+1.97 x
+
+2.24 v
+
+2.44
+5. 
+Given ordered data sets X = {12, 23, 4, 36, 10, 67, 58, 40, 33} and Y = {1.5, 10, 8.3, 4, 1.4, 1.8, 2.2, 4, 3} What is the correlation of their ordered pairs after standardization?
+
+-0.36 v
+
+-0.58
+
+0.36
+
+0.58
+6. 
+Refer to the raw data in the Correlation with Standardization spreadsheet, 5-6.
+
+Imagine a scatter plot of RSP against SPY monthly returns for the twelve years from May 2003 to May 2015. Now, imagine that you standardize the monthly returns for both RSP and SPY and generate a second scatter plot of the standardized ordered pairs.
+
+Which of the five items below must be the same for both scatter plots? – choose all that apply
+
+Slope
+
+Y-intercept
+
+Correlation v
+
+Covariance
+
+Coefficient of Determination v
+7. 
+A linear regression between standardized ordered pairs ( both Gaussian distributions) has, mean = 0, and root mean square error (standard deviation) = 0.5, what is the coefficient of determination (R-squared)?
+
+0.25 x
+
+0.5 x
+
+0.75 v
+
+1
+8. 
+Given correlation of R = 0.87 on a standardized linear regression (with Gaussian distributions), how much do we learn about Y (in bits) when we learn the values for X?
+
+0.74 bits x
+
+0.92 bits x
+
+1.02  v
+
+1.20 bits
+9. 
+Suppose you have three input variables and one output, to perform the Excel “linest” function. What is the number of rows and columns for the array you need to preselect?
+
+4,5 x
+
+5,5
+
+5,4 v
+
+4,4
+
+
+

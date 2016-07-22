@@ -1,0 +1,107 @@
+Encerrar
+Week 3 Graded Quiz
+
+10 perguntas
+1. 
+Suppose we have two coins: one “fair” coin, where p(head) = p(tails) = .5; and an “unfair” coin where p(heads) does not equal p(tails). Which coin has a larger entropy prior to observing the outcome?
+
+The fair coin v
+
+The unfair coin
+2. 
+If you roll one fair die (6-sided), what is its entropy before the result is observed?
+
+0.43 bits x
+
+2.58 bits v
+
+2.32 bits x
+
+0.46 bits
+3. 
+If your friend picks one number between 1001 to 5000, under the strategy used in video Entropy of a Guessing Game, what is the maximum number of questions you need to ask to find out that number?
+
+10 x
+
+11 x
+
+12 v
+
+13
+4. 
+Using the “Information Measures” spreadsheet, 4-1 to calculate H(X|Y) given a = 0.4, c = 0.5, e = 0.11.
+
+0.87 bits v
+
+0.90 bits
+
+0.97 bits
+
+1.87 bits
+5. 
+On the “Information Measures” spreadsheet 4-1, given a = 0.3, c = 0.2, suppose now we also know that H(X,Y) = H(X) + H(Y). What is the joint probability e?
+
+0.06 v
+
+0.5
+
+0.04
+
+0.3
+6. 
+Given a = 0.2, c = 0.5 on the Information Measures Spreadsheet,4-1 suppose now we also know the true positive rate is 0.18. What is the Mutual Information?
+
+0.72 bits x
+
+1.64 bits
+
+0.13 bits x
+
+0.08 bits v
+7. 
+Consider the Monty Hall problem, but instead of the usual 4 doors, assume there are 5 doors to choose from. You first choose door #1. Monty opens doors #2 and #3. What is the new probability that there is a prize behind door #4?
+
+0.2 x
+
+0.4 v
+
+0.5
+
+0.67 x
+8. 
+Again, consider the Monty Hall problem, but with 5 doors to choose from instead of 4. You pick door #1, and Monty opens 2 of the other 4 doors. How many bits of information are communicated to you by Monty when you observe which two doors he opens?
+
+1.52 bits x
+
+2.32 bits x
+
+0.80 bits v
+
+0.67 bits
+9. 
+B stands for “the coin is fair”, ~B stands for “the coin is crooked”. The p(heads | B) = 0.5, and p(heads | ~B) = 0.4. Your friend tells you that he often tests people to see if they can guess whether he is using the fair coin or the crooked coin, but that he is careful to use the crooked coin 70% of the time. He tosses the coin once and it comes up heads.
+
+What is your new best estimate of the probability that the coin he just tossed is fair?
+
+0.15 x
+
+0.35 v
+
+0.40
+
+0.43 x
+10. 
+Suppose you are given either a fair die or an unfair die (6-sided). You have no basis for considering either die more likely before you roll it and observe an outcome. For the fair die, the chance of observing “3” is 1/6. For the unfair die, the chance of observing “3” is 1/3. After rolling the unknown die, you observe the outcome to be 3.
+
+What is the new probability that the die you rolled is fair?
+
+0.08 x
+
+0.23
+
+0.33 v
+
+0.36
+
+
+

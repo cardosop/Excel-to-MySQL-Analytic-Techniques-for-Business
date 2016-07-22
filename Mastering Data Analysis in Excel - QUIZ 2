@@ -1,0 +1,142 @@
+Encerrar
+Week 2 Graded Quiz
+
+12 perguntas
+
+1. 
+A test for “driving while intoxicated” was given 100 times. 20 people tested were actually intoxicated, and 10 people were mis-classified as intoxicated. What would the false positive rate be?
+
+50% x
+
+30% x
+
+12.5% v
+
+10%
+
+2. 
+If a fire alarm malfunctions and fails to go off when there actually is a fire, that is a:
+
+False Positive x
+
+False Negative v
+
+True Positive
+
+True Negative x
+
+3. 
+If the “classification incidence/test incidence” is 10% and the true “condition incidence” is 12%, the true positive rate:
+
+must be 100%
+
+can be 100%
+
+cannot be 100% v
+
+must be 0%
+
+4. 
+Use the Protein Level/Cancer Diagnostic data in Spreadsheets 3-3C "Cost Varying Threshold" to answer Questions 4 to 7:
+
+Question 4: Is there a threshold value for the quantity of diagnostic marker protein X37 that, at the given costs per FN of $50,000 and cost per FP of $500, results in a lower cost per test than $124 (round to the nearest dollar)?
+
+Yes v
+
+No
+
+5. 
+If Yes in Question 4, what is the minimum cost per test (rounded to the nearest dollar)?
+
+No, $124 is the minimum x
+
+$118 x
+
+$120 v
+
+$121
+
+6. 
+What is the lowest threshold value classified as “Positive” that achieves the optimal cost per test?
+
+16539.5 x
+
+16541.3 x
+
+16551.9 v
+
+16552.9
+
+7. 
+In general, increasing the cost per FN while keeping the cost per FP constant will cause the cost-minimizing threshold score to:
+
+Increase x
+
+Decrease v
+
+Stay the Same
+
+8. 
+Make a copy of the Excel Bombers and Seagulls spreadsheet 3-1, 3-3A, 3-4 to answer Questions 8 to 10:
+
+Modify the spreadsheet data so that there are 4 bombers instead of 3 – with the 4th bomber having score 66 – and 16 seagulls instead of 17.
+
+What is the new Area Under the Curve:
+
+0.72 x
+
+0.75 v
+
+0.78
+
+0.80
+
+9. 
+What is the new minimum cost per event?
+
+1.20 Million pounds x
+
+1.30 Million pounds x
+
+1.40 Million pounds v
+
+1.50 Million pounds
+
+10. 
+What is the new threshold that minimizes the cost per event?
+
+62 x
+
+66 v
+
+70
+
+74
+
+11. 
+A population tested for “driving while intoxicated” has a Condition incidence of 20%. If the test has a true positive rate of 70% and a false positive rate of 10%, what is the test’s Positive Predictive Value (PPV)?
+
+0.36 x
+
+0.50 x
+
+0.60
+
+0.64 v
+
+12. 
+In the example from the video of adding standardized heights and standardized weights, what is the False Positive rate if we choose a threshold between -1.33 and -1.28?
+
+
+
+0.6 v
+
+0.67
+
+0.4
+
+0.33
+11 perguntas sem resposta
+Enviar teste
+
+
